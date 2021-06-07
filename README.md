@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Eunseong Go
 #### I am Data Scientist from South Korea
-![I am Data Scientist from South Korea](https://github.com/goeunseong)
+![Github URL](https://github.com/goeunseong)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
