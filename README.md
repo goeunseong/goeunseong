@@ -1,4 +1,8 @@
-### Hi there 👋
+### Data Scientist
+
+⚡ #### 
+  1. Public_Data Intern - NIA
+
 
 <!--
 **goeunseong/goeunseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
