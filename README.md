@@ -1,6 +1,6 @@
-### Data Scientist
+# Data Scientist
 
-#### ⚡ Career
+### ⚡ Career
   1. Public_Data Intern - NIA
 
 
