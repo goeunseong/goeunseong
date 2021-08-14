@@ -14,5 +14,9 @@ I'm interested in Data Science, and want to share useful insights with you.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goeunseong&show_icons=true&theme=radical)  
 
-![Profile views](https://gpvc.arturio.dev/goeunseong)  
+![Profile views](https://gpvc.arturio.dev/goeunseong)
+
+github-readme-stats.vercel.app/api/top-langs/?username=goeunseong&langs_count=8
+
+
 
